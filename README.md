@@ -16,4 +16,4 @@
 ### 💻 미션
 | No | name | Repository | PR 1 | PR 2 | Pair | Reviewer | Period |
 |:------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| 1 | 자동차 경주 | [java-racingcar](https://github.com/jjongwa/java-racingcar) |  |  | [베베](https://github.com/wonyongChoi05) |  | 2023.02.07 ~ 2023.02.13 |
+| 1 | 자동차 경주 | [java-racingcar](https://github.com/jjongwa/java-racingcar) | [step1](https://github.com/woowacourse/java-racingcar/pull/460) |  | [베베](https://github.com/wonyongChoi05) |  | 2023.02.07 ~ 2023.02.13 |
