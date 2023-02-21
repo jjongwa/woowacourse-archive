@@ -17,4 +17,4 @@
 | No | name | Repository | PR 1 | PR 2 | Pair | Reviewer | Period |
 |:------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 1 | 자동차 경주 - 단위 테스트 | [java-racingcar](https://github.com/jjongwa/java-racingcar) | [step1](https://github.com/woowacourse/java-racingcar/pull/460) | [step2](https://github.com/woowacourse/java-racingcar/pull/591) | [베베](https://github.com/wonyongChoi05) | [검프](https://github.com/livenow14) | 2023.02.07 ~ 2023.02.13 |
-| 2 | 사다리 타기 - TDD | [java-ladder](https://github.com/jjongwa/java-ladder) | [step1](https://github.com/woowacourse/java-ladder/pull/108) |  | 망고 | 럿고 | 2023.02.14 ~ 2023.02.20 |
+| 2 | 사다리 타기 - TDD | [java-ladder](https://github.com/jjongwa/java-ladder) | [step1](https://github.com/woowacourse/java-ladder/pull/108) | [step2](https://github.com/woowacourse/java-ladder/pull/160) | [망고](https://github.com/Go-Jaecheol) | 럿고 | 2023.02.14 ~ 2023.02.20 |
