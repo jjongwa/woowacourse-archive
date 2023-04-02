@@ -20,3 +20,10 @@
 | 2 | 사다리 타기 - TDD | [java-ladder](https://github.com/jjongwa/java-ladder) | [step1](https://github.com/woowacourse/java-ladder/pull/108) | [step2](https://github.com/woowacourse/java-ladder/pull/160) | [망고](https://github.com/Go-Jaecheol) | 럿고 | 2023.02.14 ~ 2023.02.27 |
 | 3 | 블랙잭 - Clean Code | [java-blackjack](https://github.com/jjongwa/java-blackjack) | [step1](https://github.com/woowacourse/java-blackjack/pull/424) | [step2](https://github.com/woowacourse/java-blackjack/pull/522) | [성하](https://github.com/sh111-coder) | [로운](https://github.com/lowoon) | 2023.02.28 ~ 2023.03.13 |
 | 4 | 체스 - OOP, DB | [java-chess](https://github.com/jjongwa/java-chess) | [step1](https://github.com/woowacourse/java-chess/pull/478) | [step2](https://github.com/woowacourse/java-chess/pull/596) | [로이](https://github.com/the9kim) | [소니](https://github.com/sonypark) | 2023.03.14 ~ 2023.03.27 |
+
+### 📝 블로그 포스팅
+<details>
+    <summary>미션 회고</summary>
+
+- [[회고] Level 1 - 온보딩 ~ 자동차 경주 미션 회고](https://notbusyperson.tistory.com/42)
+</details>
