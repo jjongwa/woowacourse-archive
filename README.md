@@ -27,3 +27,21 @@
 
 - [[회고] Level 1 - 온보딩 ~ 자동차 경주 미션 회고](https://notbusyperson.tistory.com/42)
 </details>
+
+
+
+## 🍃 Level 2 - Spring 학습하기
+
+### 📆 기간
+- `2023.04.11 ~ 2023.06.09`
+
+### 📋 학습 목표
+- 스프링 프레임워크를 이용해 웹 애플리케이션을 개발
+- 학습 테스트를 통해 새로운 기술을 익히고 미션에 적용
+- 클라우드 환경에 애플리케이션을 배포하고 운영
+- 새로운 기술을 익히는 본인만의 효과적인 학습 방법 찾기
+
+### 💻 미션
+| No | name | Repository | PR 1 | PR 2 | Pair | Reviewer | Period |
+|:------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| 1 | 웹 자동차 경주 - Spring 기초 | [jwp-racingcar](https://github.com/woowacourse/jwp-racingcar) | [step1](https://github.com/woowacourse/jwp-racingcar/pull/34) |  | 달리 | 바다 | 2023.04.11 ~ 2023.04.24 |
