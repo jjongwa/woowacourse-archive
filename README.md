@@ -45,7 +45,7 @@
 | No | name | Repository | PR 1 | PR 2 | Pair | Reviewer | Period |
 |:------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 1 | 웹 자동차 경주 - Spring 기초 | [jwp-racingcar](https://github.com/woowacourse/jwp-racingcar) | [step1](https://github.com/woowacourse/jwp-racingcar/pull/34) | [step2](https://github.com/woowacourse/jwp-racingcar/pull/149) | 달리 | [바다](https://github.com/xrabcde) | 2023.04.11 ~ 2023.04.24 |
-| 2 | 장바구니 - RESTful 웹 애플리케이션 | [jwp-shopping-cart](https://github.com/woowacourse/jwp-shopping-cart) | [step1](https://github.com/woowacourse/jwp-shopping-cart/pull/200) | step2 | 케로 | 다니 | 2023.04.25 ~ 2023.05.08 |
+| 2 | 장바구니 - RESTful 웹 애플리케이션 | [jwp-shopping-cart](https://github.com/woowacourse/jwp-shopping-cart) | [step1](https://github.com/woowacourse/jwp-shopping-cart/pull/200) | [step2](https://github.com/woowacourse/jwp-shopping-cart/pull/323) | 케로 | 다니 | 2023.04.25 ~ 2023.05.08 |
 
 ### 📝 블로그 포스팅
 <details>
