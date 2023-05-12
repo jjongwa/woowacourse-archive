@@ -46,7 +46,7 @@
 |:------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 1 | 웹 자동차 경주 - Spring 기초 | [jwp-racingcar](https://github.com/woowacourse/jwp-racingcar) | [step1](https://github.com/woowacourse/jwp-racingcar/pull/34) | [step2](https://github.com/woowacourse/jwp-racingcar/pull/149) | [달리](https://github.com/waterricecake) | [바다](https://github.com/xrabcde) | 2023.04.11 ~ 2023.04.24 |
 | 2 | 장바구니 - RESTful 웹 애플리케이션 | [jwp-shopping-cart](https://github.com/woowacourse/jwp-shopping-cart) | [step1](https://github.com/woowacourse/jwp-shopping-cart/pull/200) | [step2](https://github.com/woowacourse/jwp-shopping-cart/pull/323) | [케로](https://github.com/jyeost) | [다니](https://github.com/da-nyee) | 2023.04.25 ~ 2023.05.08 |
-| 3 | 지하철 - 복잡한 도메인의 웹 애플리케이션 | [jwp-subway-path](https://github.com/woowacourse/jwp-subway-path) | [step1]() | step2 | [케로](https://github.com/jyeost) | [로운](https://github.com/lowoon) | 2023.05.09 ~ 2023.05.22 |
+| 3 | 지하철 - 복잡한 도메인의 웹 애플리케이션 | [jwp-subway-path](https://github.com/woowacourse/jwp-subway-path) | [step1]() | step2 | 후추 | [로운](https://github.com/lowoon) | 2023.05.09 ~ 2023.05.22 |
 
 ### 📝 블로그 포스팅
 <details>
