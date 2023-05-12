@@ -17,7 +17,7 @@
 | No | name | Repository | PR 1 | PR 2 | Pair | Reviewer | Period |
 |:------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | 1 | 자동차 경주 - 단위 테스트 | [java-racingcar](https://github.com/jjongwa/java-racingcar) | [step1](https://github.com/woowacourse/java-racingcar/pull/460) | [step2](https://github.com/woowacourse/java-racingcar/pull/591) | [베베](https://github.com/wonyongChoi05) | [검프](https://github.com/livenow14) | 2023.02.07 ~ 2023.02.13 |
-| 2 | 사다리 타기 - TDD | [java-ladder](https://github.com/jjongwa/java-ladder) | [step1](https://github.com/woowacourse/java-ladder/pull/108) | [step2](https://github.com/woowacourse/java-ladder/pull/160) | [망고](https://github.com/Go-Jaecheol) | 럿고 | 2023.02.14 ~ 2023.02.27 |
+| 2 | 사다리 타기 - TDD | [java-ladder](https://github.com/jjongwa/java-ladder) | [step1](https://github.com/woowacourse/java-ladder/pull/108) | [step2](https://github.com/woowacourse/java-ladder/pull/160) | [망고](https://github.com/Go-Jaecheol) | [럿고](https://github.com/ksy90101) | 2023.02.14 ~ 2023.02.27 |
 | 3 | 블랙잭 - Clean Code | [java-blackjack](https://github.com/jjongwa/java-blackjack) | [step1](https://github.com/woowacourse/java-blackjack/pull/424) | [step2](https://github.com/woowacourse/java-blackjack/pull/522) | [성하](https://github.com/sh111-coder) | [로운](https://github.com/lowoon) | 2023.02.28 ~ 2023.03.13 |
 | 4 | 체스 - OOP, DB | [java-chess](https://github.com/jjongwa/java-chess) | [step1](https://github.com/woowacourse/java-chess/pull/478) | [step2](https://github.com/woowacourse/java-chess/pull/596) | [로이](https://github.com/the9kim) | [소니](https://github.com/sonypark) | 2023.03.14 ~ 2023.03.27 |
 
@@ -44,8 +44,9 @@
 ### 💻 미션
 | No | name | Repository | PR 1 | PR 2 | Pair | Reviewer | Period |
 |:------:|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| 1 | 웹 자동차 경주 - Spring 기초 | [jwp-racingcar](https://github.com/woowacourse/jwp-racingcar) | [step1](https://github.com/woowacourse/jwp-racingcar/pull/34) | [step2](https://github.com/woowacourse/jwp-racingcar/pull/149) | 달리 | [바다](https://github.com/xrabcde) | 2023.04.11 ~ 2023.04.24 |
-| 2 | 장바구니 - RESTful 웹 애플리케이션 | [jwp-shopping-cart](https://github.com/woowacourse/jwp-shopping-cart) | [step1](https://github.com/woowacourse/jwp-shopping-cart/pull/200) | [step2](https://github.com/woowacourse/jwp-shopping-cart/pull/323) | 케로 | 다니 | 2023.04.25 ~ 2023.05.08 |
+| 1 | 웹 자동차 경주 - Spring 기초 | [jwp-racingcar](https://github.com/woowacourse/jwp-racingcar) | [step1](https://github.com/woowacourse/jwp-racingcar/pull/34) | [step2](https://github.com/woowacourse/jwp-racingcar/pull/149) | [달리](https://github.com/waterricecake) | [바다](https://github.com/xrabcde) | 2023.04.11 ~ 2023.04.24 |
+| 2 | 장바구니 - RESTful 웹 애플리케이션 | [jwp-shopping-cart](https://github.com/woowacourse/jwp-shopping-cart) | [step1](https://github.com/woowacourse/jwp-shopping-cart/pull/200) | [step2](https://github.com/woowacourse/jwp-shopping-cart/pull/323) | [케로](https://github.com/jyeost) | [다니](https://github.com/da-nyee) | 2023.04.25 ~ 2023.05.08 |
+| 3 | 지하철 - 복잡한 도메인의 웹 애플리케이션 | [jwp-subway-path](https://github.com/woowacourse/jwp-subway-path) | [step1]() | step2 | [케로](https://github.com/jyeost) | [로운](https://github.com/lowoon) | 2023.05.09 ~ 2023.05.22 |
 
 ### 📝 블로그 포스팅
 <details>
