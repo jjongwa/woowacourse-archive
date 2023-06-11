@@ -1,4 +1,4 @@
-# 🚀 woowacourse
+# 🚀 woowacourse-archive
 
 ### 우아한테크코스 5기 백엔드 과정을 진행하며 활동한 내용을 기록합니다.
 
@@ -21,11 +21,14 @@
 | 3 | 블랙잭 - Clean Code | [java-blackjack](https://github.com/jjongwa/java-blackjack) | [step1](https://github.com/woowacourse/java-blackjack/pull/424) | [step2](https://github.com/woowacourse/java-blackjack/pull/522) | [성하](https://github.com/sh111-coder) | [로운](https://github.com/lowoon) | 2023.02.28 ~ 2023.03.13 |
 | 4 | 체스 - OOP, DB | [java-chess](https://github.com/jjongwa/java-chess) | [step1](https://github.com/woowacourse/java-chess/pull/478) | [step2](https://github.com/woowacourse/java-chess/pull/596) | [로이](https://github.com/the9kim) | [소니](https://github.com/sonypark) | 2023.03.14 ~ 2023.03.27 |
 
-### 📝 블로그 포스팅
+### 📝 블로그 포스팅 및 기타 활동
 <details>
-    <summary>미션 회고</summary>
+    <summary></summary>
 
 - [[회고] Level 1 - 온보딩 ~ 자동차 경주 미션 회고](https://notbusyperson.tistory.com/42)
+- [단위 테스트](https://notbusyperson.tistory.com/39)
+- [제네릭](https://notbusyperson.tistory.com/43)
+- [MySQL [HY000][1813] Tablespace exists 오류 해결 과정](https://notbusyperson.tistory.com/44)
 </details>
 
 
@@ -49,7 +52,11 @@
 | 3 | 지하철 - 복잡한 도메인의 웹 애플리케이션 | [jwp-subway-path](https://github.com/woowacourse/jwp-subway-path) | [step1](https://github.com/woowacourse/jwp-subway-path/pull/50) | [step2](https://github.com/woowacourse/jwp-subway-path/pull/213) | [후추](https://github.com/Combi153) | [로운](https://github.com/lowoon) | 2023.05.09 ~ 2023.05.22 |
 | 4 | 쇼핑 주문 (협업) | [jwp-shopping-order](https://github.com/woowacourse/jwp-shopping-order) |  | [step2](https://github.com/woowacourse/jwp-shopping-order/pull/53) | [레오](https://github.com/youngh0), [비버](https://github.com/ingpyo) | [빙봉](https://github.com/aegis1920) | 2023.05.23 ~ 2023.06.05 |
 
-### 📝 블로그 포스팅
+### 📝 블로그 포스팅 및 기타 활동
 <details>
-    <summary>미션 회고</summary>
+    <summary></summary>
+    
+- [[Spring] @SpringBootTest 에서 @Transactional 이 적용되지 않는 경우](https://notbusyperson.tistory.com/47)
+- [[Spring] ArgumentResolver로 검증 기능 통합하기](https://notbusyperson.tistory.com/48)
+- [ArgumentResolver는 Service를 가져야 할까 Dao를 가져야 할까?](https://notbusyperson.tistory.com/50)
 </details>
