@@ -29,8 +29,10 @@
 - [단위 테스트](https://notbusyperson.tistory.com/39)
 - [제네릭](https://notbusyperson.tistory.com/43)
 - [MySQL [HY000][1813] Tablespace exists 오류 해결 과정](https://notbusyperson.tistory.com/44)
-</details>
+- [테코톡 - 디노의 제네릭](https://www.youtube.com/watch?v=m9aw5a50aDw)
 
+[![테코톡 - 디노의 제네릭](https://img.youtube.com/vi/m9aw5a50aDw/0.jpg)](https://www.youtube.com/watch?v=m9aw5a50aDw)
+</details>
 
 
 ## 🍃 Level 2 - Spring 학습하기
